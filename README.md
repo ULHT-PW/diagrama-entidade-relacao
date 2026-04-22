@@ -1,6 +1,13 @@
 # Visualização de Diagrama Entidade Relação (DER)
 
-descarregar (graphviz)[https://graphviz.org/download/]
+no linux (Codespaces):
+
+```
+sudo apt-get update
+sudo apt-get install graphviz graphviz-dev
+```
+
+no windows: descarregar (graphviz)[https://graphviz.org/download/]
 
 instalação dos modulos:
 ```
