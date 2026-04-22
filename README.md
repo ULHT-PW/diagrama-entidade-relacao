@@ -32,10 +32,6 @@ para gerar uma imagem do DER deve executar os seguintes comandos na consola:
 
 # Exemplos
 
-disponíveis em:
-* projeto: https://modelsdj.pythonanywhere.com/
-* username: admin
-* pwd: admin
 
 ### Família-Morada (1:1)
 ```python
